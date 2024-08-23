@@ -1,6 +1,20 @@
 # Data visulaization with spreadsheets
 On this week the aim to learn how we can use tools like Microsoft Excel and Google Sheets to make dashboard for the data that we already have
 
+## What you'll need:
+- Access to a computer with internet access
+- Acess to google sheets or microsoft excel (e.g., Visual Studio Code)
+- Access to a dataset. <a href="">Click Here</a> to get the data set
+
+## Submission
+- Once you open the dataset, Click on where it is written ```File``` and ```Make a copy```
+- Create a new tab and name it dashboard.
+- Once you are done with the visualization, share the link of your google sheets
+- **Add The link of the your google sheets here**: 
+
+
+<br/><br/>
+
 ### 1. Patient Visits Analysis
 How many visits did each patient make in the year 2019?
 
