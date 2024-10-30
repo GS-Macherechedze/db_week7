@@ -4,7 +4,7 @@ This week the aim is to learn how we can use tools like Microsoft Excel and Goog
 ## What you'll need:
 - Access to a computer with internet access
 - Access to google sheets or Microsoft excel (e.g., Visual Studio Code)
-- Access to a dataset. <a href="https://docs.google.com/spreadsheets/d/17LvSL5-ZS7KNNpByRdbcx0YEEi13N8UDn3QRtkHdOY4/edit?usp=sharing">Click Here</a> to get the data set
+- Access to a dataset. <a href="https://docs.google.com/spreadsheets/d/17LvSL5-ZS7KNNpByRdbcx0YEEi13N8UDn3QRtkHdOY4/copy">Click Here</a> to get the data set
 
 ## Submission
 - Once you open the dataset, Click on where it is written ```File``` and ```Make a copy```
