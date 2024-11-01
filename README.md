@@ -33,16 +33,16 @@ How many visits did each patient make in the year 2019?
 ### 6. Provider Specialties
 **Question:** How many providers are there in each specialty?
 
-### 8. Patient Admissions Analysis
+### 7. Patient Admissions Analysis
 **Question:**: What is the count of admissions by service type in 2018?
 
-### 9. Discharge Disposition Analysis
+### 8. Discharge Disposition Analysis
 **Question:** What is the distribution of discharge dispositions for discharges in 2018?
 
-### 10. Admitted ED Visits
+### 9. Admitted ED Visits
 **Question:**: How many emergency department visits resulted in admission for each reason?
 
-### 11. Patient Age Distribution
+### 10. Patient Age Distribution
 **Question:** What is the age distribution of patients as of January 1, 2019?
 
 <br/><br/>
